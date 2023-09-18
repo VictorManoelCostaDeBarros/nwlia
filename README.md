@@ -31,7 +31,7 @@ The Video-to-Audio Converter and Transcription Tool streamlines the process of c
 
    ```bash
    git clone https://github.com/VictorManoelCostaDeBarros/nwlia
-   cd video-to-audio-converter
+   cd nwlia
 Install Dependencies:
 
 bash
@@ -69,7 +69,7 @@ cd backend
 npm start
 Access the Application:
 
-Open your browser and navigate to http://localhost:3000 to use the application.
+Open your browser and navigate to http://localhost:5173 to use the application.
 
 Usage
 Uploading a Video: Use the frontend to upload your video file.
